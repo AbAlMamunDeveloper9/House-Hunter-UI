@@ -1,0 +1,459 @@
+
+
+@media (max-width: 1700px) {
+    header {
+        width: 78%;
+    }
+	.hero {
+        width: 78%;
+    }
+
+    .left-side {
+    padding: 11px 20px;
+    }
+
+    .middle-side {
+    padding-bottom: 2px;
+    }
+    .img4 {
+        margin-top: 9px;
+    }
+    .Featured {
+        width: 76.6%;
+    }
+    .lets-tour {
+        width: 78%;
+    }
+    .user-image {
+        width: 78%;
+    }
+	.see-tips {
+        width: 78%;
+    }
+    .subscribe-area {
+        width: 78%;
+    }
+    .footer-area {
+        width: 78%;
+    }
+	
+}
+
+
+
+
+
+
+
+
+@media (max-width: 1400px) {
+    header {
+        width: 95%;
+    }
+	.hero {
+        width: 95%;
+    }
+
+    .left-side {
+    padding: 13px 20px;
+    }
+
+    .middle-side {
+    padding-bottom: 4px;
+    }
+
+    .Featured {
+        width: 93.6%;
+    }
+    .user-image {
+        width: 95%;
+    }
+    .see-tips {
+        width: 95%;
+    }
+    .subscribe-area {
+        width: 95%;
+    }
+    .footer-area {
+        width: 95%;
+    }
+	
+	
+}
+@media (max-width: 1200px) {
+    header {
+        width: 96%;
+    }
+	.hero {
+        width: 96%;
+    }
+
+    .hero::after {
+        content: '';
+        position: absolute;
+        right: -42px;
+        top: 0;
+        width: 60%;
+    }
+
+    .hero-title-text p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .hero-right-area {
+        gap: 20px;
+        width: 55%;
+    }
+    .middle-side {
+        width: 79%;
+        padding-top: 14px;
+    }
+
+    .right-side {
+        margin-right: -42px;
+    }
+
+    .left-side {
+    padding: 13px 20px;
+    }
+
+    .Featured {
+        width: 96%;
+    }
+
+    .down-area .area-image {
+        display: flex;
+        justify-content: center;
+        margin-left: 50px;
+        gap: 8px;
+    }
+
+    .lets-tour {
+        width: 95%;
+    }
+
+    .user-image .users-img {
+        display: flex;
+        justify-content: center;
+        gap: 95px;
+    }
+
+    .imge1::before {
+        width: 115%;
+        margin-left: 25px;
+    }
+    .imge2::before {
+        width: 114%;
+        margin-left: 30px;
+    }
+    .imge3::before {
+        width: 115%;
+        margin-left: 50px;
+    }
+	
+}
+
+
+
+@media (max-width: 992px) {
+    header {
+        width: 96%;
+    }
+
+    .header-area ul li a {
+        padding: 6px 12px;
+        font-size: 15px;
+    }
+    .menu1 {
+        gap: 22px;
+    }
+    .sign-btn {
+        padding: 8px 17px;
+        font-size: 14px;
+    }
+    .hero {
+        width: 92%;
+    }
+    .hero-title-text h1 {
+        font-size: 35px;
+        line-height: 40px;
+        text-transform: capitalize;
+        margin-bottom: 10px;
+    }
+    .hero-title-text p {
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .hero-form form img {
+        width: 5%;
+    }
+    .hero-form form input {
+        font-size: 12px;
+    }
+    .hero-form form a {
+        padding: 8px 12px;
+    }
+    .hero::after {
+        content: '';
+        position: absolute;
+        right: -74px;
+        top: 0;
+        width: 60%;
+    }
+    .hero-form form {
+        width: 93%;
+    }
+    .hero-form form a img {
+        width: 10%;
+        margin-left: 8px;
+    }
+    .partner p {
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .partner_img {
+        display: flex;
+        gap: 25px;
+    }
+
+
+
+
+    .left-side .text3 h4 {
+        font-size: 14px;
+        line-height: 16px;
+        margin: 0px 0px 4px 5px;
+    }
+    .left-side .text3 p {
+        font-size: 10px;
+        line-height: 14px;
+        margin-left: 5px;
+    }
+    .left-side {
+        height: 66%;
+        gap: 40px;
+        padding-left: 15px;
+        margin-left: 36px;
+        padding-top: 7px;
+    }
+    .middle-side .text5 h4 {
+        font-size: 14px;
+        line-height: 16px;
+        margin: 0px 0px 0px 0px;
+    }
+    .middle-side .text5 p {
+        font-size: 10px;
+        line-height: 14px;
+    }
+
+    .middle-side {
+        height: 70%;
+        gap: 30px;
+        width: 86%;
+        align-items: center;
+        border-radius: 32px;
+    }
+
+    .right-side {
+        height: 66%;
+        gap: 23px;
+        padding: 20px 0px 0px 5px;
+        margin-left: 7.3px;
+    }
+    .img4 .im2 {
+        top: 15px;
+        left: 78px;
+    }
+    .img4 .im3 {
+        top: 15px;
+        left: 106px;
+    }
+    
+
+
+
+    .houses-text h1 {
+        font-size: 22px;
+    }
+
+    
+    .houses-logo .home p {
+        font-size: 15px;
+    }
+    .houses-logo .villa p {
+        font-size: 15px;
+    }
+    .houses-logo .apartment p {
+        font-size: 15px;
+    }
+
+    .houses-arrow .left {
+        padding: 6px 20px;
+    }
+    .houses-arrow .right {
+        padding: 6px 20px;
+    }
+    
+    .down-area .area-image {
+        display: block;
+    }
+    .up-area {
+        margin-bottom: 60px;
+    }
+    .col-1-4 .popu {
+        left: 4%;
+        top: 64%;
+    }
+    .col-1-4 .home-new p {
+        left: 4%;
+        top: 64%;
+    }
+
+    .col-1-4 .dolar h3 {
+        margin-top: 8px;
+        margin-bottom: 0px;
+        font-size: 20px;
+    }
+    .col-1-4 .dolar p {
+        font-size: 16px;
+    }
+    .col-1-4 .dolar {
+        margin-bottom: 10px;
+    }
+    .col-1-4 .dianne {
+        margin-bottom: 60px;
+    }
+
+    .left-text h1 {
+        font-size: 23px;
+        line-height: 30px;
+    }
+    .left-text p {
+        font-size: 13px;
+        line-height: 22px;
+    }
+    .house-detail {
+        width: 80%;
+    }
+    .left-text h4 {
+        margin-top: 35px;
+        margin-bottom: -12px;
+    }
+    .left-text h4 span {
+        font-size: 15px;
+        line-height: 0px;
+    }
+    .diane .img8 a img {
+        width: 48px;
+    }
+    .diane .text8 h4 {
+        font-size: 13px;
+        line-height: 14px;
+    }
+    .diane .text8 p {
+        font-size: 11px;
+        line-height: 14px;
+    }
+    .left-text .diane {
+        gap: 10px;
+    }
+    
+    .contact {
+        gap: 10px;
+        padding: 9px 10px;
+    }
+    .contact .btn2 a {
+        font-size: 13px;
+    }
+
+    .right-img::before {
+        height: 120%;
+    }
+    .right-img::after {
+        left: 45px;
+        height: 110%;
+    }
+
+    .users h1 {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    .user-image .users-img {
+        display: block;
+        text-align: center;
+    }
+
+    .imge1::before {
+        left: 34%;
+        width: 100%;
+        height: 117%;
+        top: -240px;
+    }
+    .imge2::before {
+        left: 11%;
+        top: -280px;
+        width: 100%;
+        height: 111%;
+    }
+    .imge3::before {
+        left: 35%;
+        top: -280px;
+        width: 100%;
+        height: 140%;
+    }
+
+    .users-img .col-3 .mar {
+        padding-top: 28px;
+    }
+
+    .users-img .col-3 h2 {
+        margin-top: 210px;
+        font-size: 18px;
+    }
+    .users-img .col-3 p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+
+    .users-img .col-3 .russel {
+        justify-content: center;
+        gap: 28px;
+    }
+    .users-img .col-3 .star2 {
+        gap: 11px;
+    }
+    .users-img .col-3 .star2 a {
+        margin-top: -102px;
+    }
+
+    .russel .diane {
+        gap: 5px;
+        margin-top: -80px;
+    }
+    .esther {
+        margin-left: 58%;
+    }
+    
+
+
+
+
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
